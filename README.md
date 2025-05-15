@@ -27,7 +27,7 @@ Feel free to reach out if anything catches your interest.
 
 ![Languages](https://skillicons.dev/icons?i=cs,md,c,cpp,sqlite,php,r)
 
-![Languages - GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-mc-almeida&count_private=true&langs_count=10&layout=compact&theme=dark)
+![Languages - GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-mc-almeida&count_private=true&langs_count=10&layout=compact&theme=dark&hide=Jupyter%20Notebook)
 
 ---
 
