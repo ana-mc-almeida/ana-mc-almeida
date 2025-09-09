@@ -2,9 +2,9 @@
 
 My name is **Ana Margarida Almeida**, and I'm a Junior Software Engineer from Porto, currently living in Lisbon, Portugal.
 
-I presently hold a research initiation scholarship, working as a **Full Stack Developer** at [DSI - NIAS](https://si.tecnico.ulisboa.pt/en/os-servicos-de-informatica/organizacao/#NIAS_link) while pursuing my **[Master's in Computer Science & Engineering](https://tecnico.ulisboa.pt/en/education/courses/masters-programmes/computer-science-and-engineering/)** at [Instituto Superior Técnico](https://tecnico.ulisboa.pt).
+I presently hold a research initiation scholarship, working as a **Full Stack Developer** at [DSI - NIAS](https://si.tecnico.ulisboa.pt/en/os-servicos-de-informatica/organizacao/#NIAS_link) while pursuing my **[Master's in Computer Science & Engineering](https://tecnico.ulisboa.pt/en/education/courses/masters-programmes/computer-science-and-engineering/)** at [Instituto Superior Técnico](https://tecnico.ulisboa.pt). Check out the projects I've worked on during my Master's in the [meic.md](./meic.md) file.
 
-I previously earned my **[Bachelor's degree in Computer Science & Engineering](https://tecnico.ulisboa.pt/en/education/courses/undergraduate-programmes/computer-science-and-engineering/)** at [IST](https://tecnico.ulisboa.pt) and if you're interested in the projects I worked on during my studies, you can check them out [here](./leic.md).
+I previously earned my **[Bachelor's degree in Computer Science & Engineering](https://tecnico.ulisboa.pt/en/education/courses/undergraduate-programmes/computer-science-and-engineering/)** at [IST](https://tecnico.ulisboa.pt) and if you're interested in the projects I worked on during my studies, you can check them out in the [leic.md](./leic.md) file.
 
 Feel free to reach out if anything catches your interest.
 
@@ -13,7 +13,6 @@ Feel free to reach out if anything catches your interest.
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ana-mc-almeida/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ana.margarida2004@gmail.com)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/ana_mc_almeida)
-
 
 ## Tools & Technologies
 
@@ -31,4 +30,4 @@ Feel free to reach out if anything catches your interest.
 
 ---
 
-Last updated on **February 2025**
+Last updated on **September 2025**
